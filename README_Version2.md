@@ -4,7 +4,7 @@ Completed a detailed Telecom Customer Churn Dashboard using real Airtel data in 
 
 ---
 
- Dataset:-
+ Dataset:-https://www.kaggle.com/competitions/customer-churn-prediction-2020/data
 
 - File: `test.csv`
 - Description: Contains customer data such as state, account length, call usage details, service plans, and churn status.
