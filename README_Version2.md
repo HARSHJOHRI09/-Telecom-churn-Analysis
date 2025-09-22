@@ -13,7 +13,8 @@ Completed a detailed Telecom Customer Churn Dashboard using real Airtel data in 
 
  Dashboard
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](telecom%20churn%20analysis.png)
+
 
 Highlights:
 - State Wise Churn Rate: Visualizes top 10 states by churn vs. non-churn.
