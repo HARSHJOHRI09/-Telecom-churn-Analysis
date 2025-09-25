@@ -1,5 +1,6 @@
 # -Telecom-churn-Analysis
  📊 Telecommunication Churn Dashboard Overview
+ 🛠 Tools Used:- MS Excel 2010
 
 This dashboard offers a detailed visualization of customer churn patterns 📉 across multiple dimensions for telecom businesses, enabling precise identification of key risk areas and customer behaviors.
 
