@@ -9,6 +9,9 @@ This dashboard offers a detailed visualization of customer churn patterns 📉 a
 🌍 State Wise Churn Rate: Highlights the top 10 states with the highest churn and non-churn counts, showing critical hotspots like WY, WV, and NY where customer retention needs urgent focus.
 
 📞 Average Call Trend (Day/Eve/Night): Visualizes call volume peaks across different times of day, with nighttime seeing the highest average usage — useful for tailoring time-specific offers.
+Data Link:-
+https://www.kaggle.com/competitions/customer-churn-prediction-2020/data
+
 
 ⏳ Account Month Length: Donut chart showing churn distribution segmented by customer tenure; reveals that new customers are at higher risk of leaving.
 
